@@ -12,10 +12,10 @@ A simple GUI Text Editor made with Python using TKinker.
 
 ## How to use
 
-1.Clone the repository: git clone https://github.com/your-username/SimplePythonEditor.git
-2.Navigate to the project directory
-3.Install the required dependencies (Tkinter is usually included with Python).
-4.Run the application: python SimplePythonEditor.py
+1.Clone the repository: git clone https://github.com/your-username/SimplePythonEditor.git <br>
+2.Navigate to the project directory <br>
+3.Install the required dependencies (Tkinter is usually included with Python). <br>
+4.Run the application: python SimplePythonEditor.py <br>
 
 ## Requirements
 
